@@ -17,20 +17,10 @@
 - Threat Intel Automation Scripts
 - CTFs & Security Research 
 
-## How to reach me:
-- Nice! Want help filling that out into a more personalized and engaging GitHub profile README? Here's a polished version you can customize:
-
-## 📫 How to reach me:
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle) (if you use one)
-
-
 ## ⚡ Fun fact:
 I enjoy reverse engineering malware samples for fun, and I'm always up for a good CTF challenge! 🚩
 
+## How to reach me.
+- LinkedIn:(https://www.linkedin.com/in/joannewmandume/)  
 
-Let me know what you'd like to highlight—your current role, school, or any personal projects—and I can tailor it even more! Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- Twitter: [@YourHandle](https://twitter.com/yourhandle) (if you use one)
 
