@@ -1,7 +1,7 @@
 
 # Hey there, I'm Joan Dume  
 
-    
+    <a href="https://www.linkedin.com/in/joannewmandume/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## I’m interested in:
 - Cybersecurity  | SOC Analysis | Threat Hunting
