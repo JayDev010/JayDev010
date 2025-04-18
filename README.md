@@ -1,5 +1,7 @@
 
-# Hey there, I'm Joan Dume
+# Hey there, I'm Joan Dume  
+
+    
 
 ## I’m interested in:
 - Cybersecurity  | SOC Analysis | Threat Hunting
@@ -19,8 +21,6 @@
 
 ## ⚡ Fun fact:
 I enjoy reverse engineering malware samples for fun, and I'm always up for a good CTF challenge! 🚩
-
-## How to reach me.
-- LinkedIn:(https://www.linkedin.com/in/joannewmandume/)  
-
-
+ 
+## Certifications
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia)](https://www.comptia.org/certifications/network)
